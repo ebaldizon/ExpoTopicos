@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Curso">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Creditos" Type="Byte" />
+    <Property Name="Carrera" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="EstudianteCursoes" Relationship="Self.FK_EstudianteCurso_Curso" FromRole="Curso" ToRole="EstudianteCurso" />
+  </EntityType>
+  <EntityType Name="Estudiante">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Fecha" Type="DateTime" Precision="0" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="EstudianteCursoes" Relationship="Self.FK_EstudianteCurso_Estudiante" FromRole="Estudiante" ToRole="EstudianteCurso" />
+  </EntityType>
+  <EntityType Name="EstudianteCurso">
+    <Key>
+      <PropertyRef Name="IdEstudiante" />
+      <PropertyRef Name="IdCurso" />
+    </Key>
+    <Property Name="IdEstudiante" Type="Int32" Nullable="false" />
+    <Property Name="IdCurso" Type="Int32" Nullable="false" />
+    <Property Name="Ano" Type="Int32" />
+    <Property Name="Unidad" Type="Byte" />
+    <Property Name="Nota" Type="Byte" />
+    <NavigationProperty Name="Curso" Relationship="Self.FK_EstudianteCurso_Curso" FromRole="EstudianteCurso" ToRole="Curso" />
+    <NavigationProperty Name="Estudiante" Relationship="Self.FK_EstudianteCurso_Estudiante" FromRole="EstudianteCurso" ToRole="Estudiante" />
+  </EntityType>
+  <Association Name="FK_EstudianteCurso_Curso">
+    <End Role="Curso" Type="Self.Curso" Multiplicity="1" />
+    <End Role="EstudianteCurso" Type="Self.EstudianteCurso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Curso">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EstudianteCurso">
+        <PropertyRef Name="IdCurso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EstudianteCurso_Estudiante">
+    <End Role="Estudiante" Type="Self.Estudiante" Multiplicity="1" />
+    <End Role="EstudianteCurso" Type="Self.EstudianteCurso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estudiante">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EstudianteCurso">
+        <PropertyRef Name="IdEstudiante" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cursoes" EntityType="Self.Curso" />
+    <EntitySet Name="Estudiantes" EntityType="Self.Estudiante" />
+    <EntitySet Name="EstudianteCursoes" EntityType="Self.EstudianteCurso" />
+    <AssociationSet Name="FK_EstudianteCurso_Curso" Association="Self.FK_EstudianteCurso_Curso">
+      <End Role="Curso" EntitySet="Cursoes" />
+      <End Role="EstudianteCurso" EntitySet="EstudianteCursoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EstudianteCurso_Estudiante" Association="Self.FK_EstudianteCurso_Estudiante">
+      <End Role="Estudiante" EntitySet="Estudiantes" />
+      <End Role="EstudianteCurso" EntitySet="EstudianteCursoes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

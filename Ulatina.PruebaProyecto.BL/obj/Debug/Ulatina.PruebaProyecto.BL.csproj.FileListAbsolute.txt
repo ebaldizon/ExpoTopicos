@@ -1,0 +1,13 @@
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.dll.config
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.dll
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.pdb
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\EntityFramework.dll
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\EntityFramework.SqlServer.dll
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.dll
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.pdb
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.dll.config
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\EntityFramework.xml
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\bin\EntityFramework.SqlServer.xml
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.csprojResolveAssemblyReference.cache
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.dll
+E:\Projects\ExpoTopicos\Ulatina.PruebaProyecto\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.pdb
