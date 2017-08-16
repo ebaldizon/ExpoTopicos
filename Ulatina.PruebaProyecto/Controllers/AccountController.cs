@@ -143,6 +143,14 @@ namespace Ulatina.PruebaProyecto.Controllers
         }
 
         //
+        // GET: /Account/Deco
+        [AllowAnonymous]
+        public ActionResult Deco()
+        {
+            return View();
+        }
+
+        //
         // POST: /Account/Register
         [HttpPost]
         [AllowAnonymous]
