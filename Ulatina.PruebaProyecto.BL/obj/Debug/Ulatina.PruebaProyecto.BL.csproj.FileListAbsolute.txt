@@ -23,3 +23,16 @@ C:\Users\Josue Mora\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Entit
 C:\Users\Josue Mora\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.csprojResolveAssemblyReference.cache
 C:\Users\Josue Mora\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.dll
 C:\Users\Josue Mora\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.pdb
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.dll.config
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.dll
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.pdb
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.dll
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.dll
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.pdb
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.dll.config
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.xml
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.csprojResolveAssemblyReference.cache
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.dll
+C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.pdb

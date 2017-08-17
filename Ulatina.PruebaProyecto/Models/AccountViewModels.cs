@@ -84,13 +84,19 @@ namespace Ulatina.PruebaProyecto.Models
 
     public class DecoViewModel
     {
-        [Required]
         [Display(Name = "Regex")]
+        [DataType(DataType.PhoneNumber)]
+        [Required(ErrorMessage = "Phone Number Required!")]
+        [RegularExpression(@"^\(?([0-9]{1})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$", ErrorMessage = "Entered phone format is not valid.")]
         public string Regex { get; set; }
+        public string PolicyNumber { get; set; }
+        public string AddressChangeType { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "You must enter a leap year!")]
+        [DataType(DataType.Date)]
         [Display(Name = "Custom")]
         public string Custom { get; set; }
+
 
         [Required]
         [EmailAddress]
