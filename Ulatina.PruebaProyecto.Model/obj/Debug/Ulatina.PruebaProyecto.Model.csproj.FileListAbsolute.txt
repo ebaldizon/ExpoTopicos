@@ -27,3 +27,13 @@ C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\E
 C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.Model\obj\Debug\Ulatina.PruebaProyecto.Model.dll
 C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.Model\obj\Debug\Ulatina.PruebaProyecto.Model.pdb
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\Ulatina.PruebaProyecto.Model.dll.config
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\Ulatina.PruebaProyecto.Model.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\Ulatina.PruebaProyecto.Model.pdb
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\EntityFramework.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\EntityFramework.xml
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\obj\Debug\Ulatina.PruebaProyecto.Model.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\obj\Debug\Ulatina.PruebaProyecto.Model.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.Model\obj\Debug\Ulatina.PruebaProyecto.Model.pdb

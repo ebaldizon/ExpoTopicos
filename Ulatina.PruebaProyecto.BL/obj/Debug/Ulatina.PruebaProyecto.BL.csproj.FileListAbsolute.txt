@@ -36,3 +36,16 @@ C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFram
 C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.csprojResolveAssemblyReference.cache
 C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.dll
 C:\Users\andre\Source\Repos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.pdb
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.dll.config
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.BL.pdb
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.SqlServer.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.pdb
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\Ulatina.PruebaProyecto.Model.dll.config
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.xml
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\bin\EntityFramework.SqlServer.xml
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.dll
+C:\Users\Emanuel\Documents\GitHub\ExpoTopicos\ExpoTopicos\Ulatina.PruebaProyecto.BL\obj\Debug\Ulatina.PruebaProyecto.BL.pdb
